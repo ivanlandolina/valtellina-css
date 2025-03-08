@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+body{
+    margin: 0;
+}
+
+.main-section{
+    padding: 20px;
+}
+
+.image-container-index{
+    height: 500px;
+    background-image: url('https://cdn.pixabay.com/photo/2021/12/20/18/13/mountain-6883701_1280.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.image-container-sondrio{
+    height: 500px;
+    background-image: url('https://www.duepassiinnatura.it/wp-content/uploads/2022/03/Sondrio-trekking-urbano-16-scaled.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.image-container-bormio{
+    height: 500px;
+    background-image: url('https://www.dovedormire.info/wp-content/uploads/sites/119/bormio-hd.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.image-container-lago{
+    height: 500px;
+    background-image: url('https://www.northlakecomo.net/images/content/815/AllascopertadellebellezzedelcentrodiColico-1587377807-xl.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.image-container-ponte{
+    height: 500px;
+    background-image: url('https://www.visitasondrio.it/contents/instance2/files/photo/139_12_9371_ValTartano-.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.image-container-varenna{
+    height: 500px;
+    background-image: url('https://siviaggia.it/wp-content/uploads/sites/2/2019/10/varenna.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    font-family: "Prata", sans-serif;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+h3{
+    font-family: "Prata", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 0;
+}
+
+h1,h3{
+    margin-bottom: 0;
+}
+
+.main-body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    font-weight: 600;
+    font-style: italic;
+}
+
+.h6-index{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #47625b, #b0a059); 
+}
+
+.h6-sondrio{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #6e443e, #76676e); 
+}
+
+.h6-bormio{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #8fa1b5, #939498); 
+}
+
+.h6-lago{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #6b7e34, #324646); 
+}
+
+.h6-varenna{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #5cb5c6, #ee7803); 
+}
+
+.h6-ponte{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    color: white;
+    border-radius: 6px;
+    background: linear-gradient(to right, #0e1317, #9e902e); 
+}
+
+ul {
+    list-style-type: none; 
+    padding: 0;
+  }
+
+li{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 22px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+ul li a {
+    text-decoration: none; 
+    color: #47625b; 
+  }
+
+  footer{
+    background-color: black;
+    padding: 16px;
+    color: white;
+    font-size: 16px;
+  }
+
+    footer a{
+        color: white;
+        position: center;
+        font-size: 14px;
+    }
+
